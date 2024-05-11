@@ -65,7 +65,7 @@ footer {
     margin: 0px;
     bottom: 0px;
     float: left;
-    padding: 0px;
+    padding: 10px;
     background-image: linear-gradient(to right,rgb(254, 102, 75),rgb(201, 0, 0));
 }
 
